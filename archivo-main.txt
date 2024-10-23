@@ -6,4 +6,7 @@ commit mas add
 
 nuevo cambio
 
+nuevo comentarios
+nuevas tareas
+nuevas reglas
 nuevas funcionalidades
